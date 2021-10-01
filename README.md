@@ -12,7 +12,7 @@ Open a browser window, copy and past this link () into the URL section, and view
 
 View the date at the top of the page:
 
-![nav](images/image1.png)
+![nav](images/image2.png) 
 
 Enter and input into one of the time blocks and click save. 
 
@@ -20,7 +20,7 @@ Enter and input into one of the time blocks and click save.
 
 View the date at the top of the page:
 
-![nav](images/image2.png)
+![nav](images/image1.png)
 
 Enter an input into one of the time blocks:
 
