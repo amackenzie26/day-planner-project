@@ -9,6 +9,19 @@ today.innerText = moment().format("dddd, MMMM Do, YYYY");
 
 showTime();
 
+function setTimeColor() {
+    document.getElementById('time-block')
+}
+
+
+
+
+
+
+
+
+
+
 
 
 // // Saving user input
@@ -29,14 +42,3 @@ showTime();
 //     document.col.style.background = red;
 // }
 
-// function applyClass() {
-//     var d = new Date();
-//     var n = d.getHours();
-//     if (n > 9)
-// $('timeofday').addClass('future');
-//     else
-// $('timeofday').addClass('present');
-//     else
-// $('timeofday').addClass('past');
-// }
-// col.on = applyClass
