@@ -71,7 +71,7 @@ textarea{
 }
 
 .col-6 {
-  background-color: grey;
+  background-color:  #77dd77;
 }
 
 #dayInput{
@@ -79,19 +79,6 @@ textarea{
   border-color: lightblue;
 }
 
-#save {
-  background-color: lightblue;
-  border-style: dotted;
-  border-color: gray;
-  border-radius: 10px;
-  width: 100%;
-  margin-bottom: 20px;
-  margin-top: 10px;
-}
-
-#savebtn {
-  
-}
 
 #timeofday {
   border-style: dotted;
@@ -112,3 +99,17 @@ input[type="text"]
 .row {
   text-align: center;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
