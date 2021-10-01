@@ -49,7 +49,7 @@ Alec Mackenzie
 ## Links
 
 Github Repo: https://github.com/amackenzie26/day-planner-project
-URL: https://amackenzie26.github.io/code-quiz-project/
+URL: https://amackenzie26.github.io/day-planner-project/
 
 ## License
 
